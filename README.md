@@ -6,7 +6,7 @@ You can reach me and chat on this account [@foampanther](https://twitter.com/foa
 
 ### My future personal projects 💞️
 
-- An interactive story telling app for Bob Lenonn's novels - "La Forteresse du Chaudron Noir" and "La Corne des Sables d'Ivoire"
+- An interactive story telling app for Bob Lennon's novels - "La Forteresse du Chaudron Noir" and "La Corne des Sables d'Ivoire"
 - A puzzle game inspirated by Runimate
 - A game based on extra-dimensions with tag travel
 
