@@ -2,7 +2,7 @@
 
 I’m @foam-panther, a development student, a hobby writer and artist. I love coding but especially front-end side!!! 👀
 I’m currently learning React Native and writing stories 🌱
-You can reach me on twitter with [@foampanther](https://twitter.com/foampanther) on Twitter ✨
+You can reach me and chat on this account [@foampanther](https://twitter.com/foampanther) on Twitter ✨
 
 ### My future personal projects 💞️
 
@@ -10,5 +10,6 @@ You can reach me on twitter with [@foampanther](https://twitter.com/foampanther)
 - A puzzle game inspirated by Runimate
 - A game based on extra-dimensions with tag travel
 
-It's all about me, I think! 
+
+*It's all about me, I think!*
 
